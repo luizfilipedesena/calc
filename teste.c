@@ -14,7 +14,7 @@ int main()
 	}
 
 	if (media(v, 4) != 5.0) {
-		fprintf(stderr, "ERRO: Teste falhou para fatorial()!\n");
+		fprintf(stderr, "ERRO: Teste falhou para media()!\n");
 		falhou = 1;
 	}
 	
